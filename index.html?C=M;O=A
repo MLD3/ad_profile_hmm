@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /~devendra/adni/Profile-HMM</title>
+ </head>
+ <body>
+<h1>Index of /~devendra/adni/Profile-HMM</h1>
+<pre>      <a href="?C=N;O=A">Name</a>                    <a href="?C=M;O=D">Last modified</a>      <a href="?C=S;O=A">Size</a>  <a href="?C=D;O=A">Description</a><hr><a href="/~devendra/adni/">     </a> <a href="/~devendra/adni/">Parent Directory</a>                             -   
+<a href="evaluateCensoredPatientsGain.m">     </a> <a href="evaluateCensoredPatientsGain.m">evaluateCensoredPati..&gt;</a> 04-Sep-2018 13:07    0   
+<a href="doBootstrap.m">     </a> <a href="doBootstrap.m">doBootstrap.m</a>           04-Sep-2018 13:07  3.7K  
+<a href="doEvaluateGeneticFeatures.m">     </a> <a href="doEvaluateGeneticFeatures.m">doEvaluateGeneticFea..&gt;</a> 04-Sep-2018 13:07  4.5K  
+<a href="getBootstrapHmmModels.m">     </a> <a href="getBootstrapHmmModels.m">getBootstrapHmmModels.m</a> 04-Sep-2018 13:07  1.2K  
+<a href="getSampleQuantiles.m">     </a> <a href="getSampleQuantiles.m">getSampleQuantiles.m</a>    04-Sep-2018 13:07  2.2K  
+<a href="prepTemporalData.m">     </a> <a href="prepTemporalData.m">prepTemporalData.m</a>      04-Sep-2018 13:07  7.3K  
+<a href="processBootstrapCi.m">     </a> <a href="processBootstrapCi.m">processBootstrapCi.m</a>    04-Sep-2018 13:07   25K  
+<a href="processHmmInitialization.m">     </a> <a href="processHmmInitialization.m">processHmmInitializa..&gt;</a> 04-Sep-2018 13:07  4.2K  
+<a href="condMixedCpdCreate.m">     </a> <a href="condMixedCpdCreate.m">condMixedCpdCreate.m</a>    04-Sep-2018 13:07  6.1K  
+<a href="doBaselineHmm.m">     </a> <a href="doBaselineHmm.m">doBaselineHmm.m</a>         04-Sep-2018 13:07   20K  
+<a href="doProfileHmm.m">     </a> <a href="doProfileHmm.m">doProfileHmm.m</a>          04-Sep-2018 13:07  3.0K  
+<a href="getInitModel.m">     </a> <a href="getInitModel.m">getInitModel.m</a>          04-Sep-2018 13:07  6.7K  
+<a href="processFeatureComparisons.m">     </a> <a href="processFeatureComparisons.m">processFeatureCompar..&gt;</a> 04-Sep-2018 13:07  575   
+<a href="subplot_scratch.m">     </a> <a href="subplot_scratch.m">subplot_scratch.m</a>       04-Sep-2018 13:07  539   
+<a href="backwardFeatureElimination.m">     </a> <a href="backwardFeatureElimination.m">backwardFeatureElimi..&gt;</a> 04-Sep-2018 13:07  3.0K  
+<a href="doEvaluateInitializations.m">     </a> <a href="doEvaluateInitializations.m">doEvaluateInitializa..&gt;</a> 04-Sep-2018 13:07  4.3K  
+<a href="getConvtimeModel.m">     </a> <a href="getConvtimeModel.m">getConvtimeModel.m</a>      04-Sep-2018 13:07  2.6K  
+<a href="processFinalHmm.m">     </a> <a href="processFinalHmm.m">processFinalHmm.m</a>       04-Sep-2018 13:07  7.6K  
+<a href="processHmmApplication.m">     </a> <a href="processHmmApplication.m">processHmmApplication.m</a> 04-Sep-2018 13:07  3.0K  
+<a href="processHmmBaseline.m">     </a> <a href="processHmmBaseline.m">processHmmBaseline.m</a>    04-Sep-2018 13:07  4.9K  
+<a href="visualizeBootstrapHmm.m">     </a> <a href="visualizeBootstrapHmm.m">visualizeBootstrapHmm.m</a> 04-Sep-2018 13:07   16K  
+<a href="compareHmmImplementations.m">     </a> <a href="compareHmmImplementations.m">compareHmmImplementa..&gt;</a> 04-Sep-2018 13:07  2.5K  
+<a href="condGaussMissingCpdCreate.m">     </a> <a href="condGaussMissingCpdCreate.m">condGaussMissingCpdC..&gt;</a> 04-Sep-2018 13:07  4.1K  
+<a href="doEvaluateRandomRestarts.m">     </a> <a href="doEvaluateRandomRestarts.m">doEvaluateRandomRest..&gt;</a> 04-Sep-2018 13:07  3.9K  
+<a href="getSampleExpectations.m">     </a> <a href="getSampleExpectations.m">getSampleExpectations.m</a> 04-Sep-2018 13:07  723   
+<a href="padHmmTrajectories.m">     </a> <a href="padHmmTrajectories.m">padHmmTrajectories.m</a>    04-Sep-2018 13:07  4.6K  
+<a href="processProfileHmm.m">     </a> <a href="processProfileHmm.m">processProfileHmm.m</a>     04-Sep-2018 13:07   10K  
+<a href="condDiscreteProdEsCpdCreate.m">     </a> <a href="condDiscreteProdEsCpdCreate.m">condDiscreteProdEsCp..&gt;</a> 04-Sep-2018 13:07  3.7K  
+<a href="doFinalHmm.m">     </a> <a href="doFinalHmm.m">doFinalHmm.m</a>            04-Sep-2018 13:07  4.1K  
+<a href="doHmmCI.m">     </a> <a href="doHmmCI.m">doHmmCI.m</a>               04-Sep-2018 13:07  3.3K  
+<a href="getHmmStepCounts.m">     </a> <a href="getHmmStepCounts.m">getHmmStepCounts.m</a>      04-Sep-2018 13:07  1.2K  
+<a href="prepProfileHmmData.m">     </a> <a href="prepProfileHmmData.m">prepProfileHmmData.m</a>    04-Sep-2018 13:07  6.7K  
+<a href="processBootstrap.m">     </a> <a href="processBootstrap.m">processBootstrap.m</a>      04-Sep-2018 13:07  7.9K  
+<a href="toyProfileHmmData.m">     </a> <a href="toyProfileHmmData.m">toyProfileHmmData.m</a>     04-Sep-2018 13:07  3.0K  
+<a href="cleanClinicalVariables.m">     </a> <a href="cleanClinicalVariables.m">cleanClinicalVariabl..&gt;</a> 04-Sep-2018 13:07  1.0K  
+<a href="doApplyHmm.m">     </a> <a href="doApplyHmm.m">doApplyHmm.m</a>            04-Sep-2018 13:07   11K  
+<a href="getGeneProfile.m">     </a> <a href="getGeneProfile.m">getGeneProfile.m</a>        04-Sep-2018 13:07  1.0K  
+<a href="getMeanKld.m">     </a> <a href="getMeanKld.m">getMeanKld.m</a>            04-Sep-2018 13:07  410   
+<a href="processBootstrapHmm.m">     </a> <a href="processBootstrapHmm.m">processBootstrapHmm.m</a>   04-Sep-2018 13:07   45K  
+<a href="processHmmMissing.m">     </a> <a href="processHmmMissing.m">processHmmMissing.m</a>     04-Sep-2018 13:07  4.1K  
+<a href="convtimeModelLogProb.m">     </a> <a href="convtimeModelLogProb.m">convtimeModelLogProb.m</a>  04-Sep-2018 13:07  1.5K  
+<a href="doEvaluateMissingData.m">     </a> <a href="doEvaluateMissingData.m">doEvaluateMissingData.m</a> 04-Sep-2018 13:07  7.6K  
+<a href="initializeProfileHmm.m">     </a> <a href="initializeProfileHmm.m">initializeProfileHmm.m</a>  04-Sep-2018 13:07  4.8K  
+<a href="plotTrajectories.m">     </a> <a href="plotTrajectories.m">plotTrajectories.m</a>      04-Sep-2018 13:07  7.4K  
+<a href="transformation_scratch.m">     </a> <a href="transformation_scratch.m">transformation_scrat..&gt;</a> 04-Sep-2018 13:07  1.1K  
+<a href="visualizeHmm.m">     </a> <a href="visualizeHmm.m">visualizeHmm.m</a>          04-Sep-2018 13:07   12K  
+<a href="compareHmmAndBaseline.m">     </a> <a href="compareHmmAndBaseline.m">compareHmmAndBaseline.m</a> 04-Sep-2018 13:07  4.5K  
+<hr></pre>
+</body></html>
